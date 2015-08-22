@@ -123,9 +123,9 @@ public class MyPagerAdapter extends FragmentPagerAdapter implements
                 ViewHelper.setRotationY(next, 0);
             }
             if (prev != null) {
-                prev.setScaleBoth(MainActivity.SMALL_SCALE + MainActivity.DIFF_SCALE * positionOffset);
+                //prev.setScaleBoth(MainActivity.SMALL_SCALE + MainActivity.DIFF_SCALE * positionOffset);
                 //ViewHelper.setRotationY(prev, minDegree);
-                ViewHelper.setRotationY(prev, 0);
+                //ViewHelper.setRotationY(prev, 0);
             }
 
 			
