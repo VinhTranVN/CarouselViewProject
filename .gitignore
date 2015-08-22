@@ -4,3 +4,10 @@ gen
 .classpath
 .settings
 target
+build
+gradle
+.gradle
+.idea
+/build
+*.iml
+local.properties
